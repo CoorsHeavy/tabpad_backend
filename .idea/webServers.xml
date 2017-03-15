@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="94f387ad-6518-43bc-9adb-ca935bf94d37" name="45.79.74.180" url="http://45.79.74.180">
+        <fileTransfer host="45.79.74.180" port="22" rootFolder="/root/tabpad_backend" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
